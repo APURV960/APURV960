@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <body>
     <div class="top-container">
     <h1 align="center">Hey 🙋‍♂️,I am <u>Apurv Anand</u></h1>
-    <p align="center"><font size="+2"><i>Nice to meet you</i>🫵</font></p>
+    <p align="center"><font size="+5"><i>Nice to meet you</i>🫵</font></p>
     </div>
     <ul>
         <li>I am currently pursuing web developement</li>
